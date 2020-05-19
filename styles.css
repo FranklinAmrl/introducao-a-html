@@ -1,0 +1,42 @@
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+} 
+
+.cor-laranja {
+    background-color: orange;
+    width: 200px;
+}
+
+.cor-preto {
+    background-color: black;
+}
+
+/* .cor-preto, .cor-laranja {
+    border: 3px solid lime;
+} */
+
+.lime-border {
+    border: 3px solid lime;
+}
+
+.corletra-branca {
+    color: white;
+}
+
+.p30 {
+    padding: 30px;
+}
+
+.corletra-vermelha {
+    color: red;
+}
+.cor-verde {
+    background-color: green;
+}
